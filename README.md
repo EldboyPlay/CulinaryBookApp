@@ -38,3 +38,13 @@
 ## Лицензия
 
 Данный проект распространяется под лицензией MIT. Подробную информацию можно найти в файле LICENSE.
+
+## Контакты
+
+Разработчик (основатель): Eldboy (Vladislav)
+- Email: [fr.dedpr@gmail.com](mailto:artur@example.com)
+- GitHub: [github.com/EldboyPlay](https://github.com/ваш-username)
+
+## ВНИМАНИЕ:
+- Новый владелец приложения: Артур!
+
